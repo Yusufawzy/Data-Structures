@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  Binary Search Tree.cpp
+f:\my apps\done\binary search tree\binary search tree\binary search tree.cpp(155): warning C4018: '<': signed/unsigned mismatch
+f:\my apps\done\binary search tree\binary search tree\binary search tree.cpp(186): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+f:\my apps\done\binary search tree\binary search tree\binary search tree.cpp(201): warning C4018: '<': signed/unsigned mismatch
+f:\my apps\done\binary search tree\binary search tree\binary search tree.cpp(148): warning C4715: 'TreeApp::search': not all control paths return a value
+  Binary Search Tree.vcxproj -> F:\My Apps\Done\Binary Search Tree\Debug\Binary Search Tree.exe
